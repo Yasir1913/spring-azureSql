@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://javatechieserver.database.windows.net:1433;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+    url: jdbc:sqlserver://sbfsd-server.database.windows.net:1433;database=SBFSD-DB;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
     username: myuser
     password: YasirAjmal@123
 
